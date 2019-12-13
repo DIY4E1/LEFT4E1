@@ -1,0 +1,409 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "leporellion-newmorse";
+  src:url("fonts/leporellion-newmorse.eot");
+  src:url("fonts/leporellion-newmorse.eot?#iefix") format("embedded-opentype"),
+    url("fonts/leporellion-newmorse.woff") format("woff"),
+    url("fonts/leporellion-newmorse.ttf") format("truetype"),
+    url("fonts/leporellion-newmorse.svg#leporellion-newmorse") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "leporellion-newmorse" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="newmorse-"]:before,
+[class*=" newmorse-"]:before {
+  font-family: "leporellion-newmorse" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.newmorse-accent-circumflex-inverted-end-a-message-ar:before {
+  content: "\2c7";
+}
+.newmorse-accent-circumflex-inverted-start-a-message-ka:before {
+  content: "\5e";
+}
+.newmorse-ampersand-same-as-plus:before {
+  content: "\26";
+}
+.newmorse-end-a-message-ar-bigger-than:before {
+  content: "\3e";
+}
+.newmorse-plus-addition-same-as-end-message:before {
+  content: "\2b";
+}
+.newmorse-start-a-message-ka-smaller-than:before {
+  content: "\3c";
+}
+.newmorse-degree-from-inverted-numeric-0-tot:before {
+  content: "\b0";
+}
+.newmorse-1-amt:before {
+  content: "\31";
+}
+.newmorse-2-um:before {
+  content: "\32";
+}
+.newmorse-3-sm:before {
+  content: "\33";
+}
+.newmorse-4-set:before {
+  content: "\34";
+}
+.newmorse-5-is:before {
+  content: "\35";
+}
+.newmorse-6-nie:before {
+  content: "\36";
+}
+.newmorse-7-mit:before {
+  content: "\37";
+}
+.newmorse-8-tz:before {
+  content: "\38";
+}
+.newmorse-9-on:before {
+  content: "\39";
+}
+.newmorse-0-tot:before {
+  content: "\30";
+}
+.newmorse-exclamation-mark-interrupt-bt-inverted:before {
+  content: "\21";
+}
+.newmorse-interrupt-bt:before {
+  content: "\a1";
+}
+.newmorse-minus-negation-tht:before {
+  content: "\2d";
+}
+.newmorse-paragraph:before {
+  content: "\a7";
+}
+.newmorse-pilcrow-sign-pause-inverted:before {
+  content: "\b6";
+}
+.newmorse-hash-number-sign-bk:before {
+  content: "\23";
+}
+.newmorse-percent-roger:before {
+  content: "\25";
+}
+.newmorse-square-bracket-open:before {
+  content: "\5b";
+}
+.newmorse-square-bracket-close:before {
+  content: "\5d";
+}
+.newmorse-slash-normal-xe:before {
+  content: "\2f";
+}
+.newmorse-slash-reverse-xe:before {
+  content: "\5c";
+}
+.newmorse-vertical-line-from-i-upper-case:before {
+  content: "\7c";
+}
+.newmorse-bracket-open:before {
+  content: "\28";
+}
+.newmorse-curly-bracket-open:before {
+  content: "\7b";
+}
+.newmorse-curly-bracket-close:before {
+  content: "\7d";
+}
+.newmorse-bracket-close:before {
+  content: "\29";
+}
+.newmorse-errancy-hh:before {
+  content: "\2d9";
+}
+.newmorse-errancy-inverted-hh:before {
+  content: "\b7";
+}
+.newmorse-equal-sign-interrupt:before {
+  content: "\3d";
+}
+.newmorse-unequal-sign-interrupt:before {
+  content: "\2260";
+}
+.newmorse-sz-sharp-s:before {
+  content: "\df";
+}
+.newmorse-question-mark-normal:before {
+  content: "\3f";
+}
+.newmorse-question-mark-reverse-imi:before {
+  content: "\bf";
+}
+.newmorse-apostrophe:before {
+  content: "\27";
+}
+.newmorse-apostrophe-inverted:before {
+  content: "\2018";
+}
+.newmorse-a-lower-case:before {
+  content: "\61";
+}
+.newmorse-a-upper-case:before {
+  content: "\41";
+}
+.newmorse-ae-lower-case:before {
+  content: "\e4";
+}
+.newmorse-ae-upper-case:before {
+  content: "\c4";
+}
+.newmorse-alt-6-dah-traffic-sign-alpha:before {
+  content: "\aa";
+}
+.newmorse-alt-shift-9-dit-traffic-sign-omega:before {
+  content: "\ba";
+}
+.newmorse-asterisk-from-x-lower-case:before {
+  content: "\2a";
+}
+.newmorse-b-lower-case:before {
+  content: "\62";
+}
+.newmorse-b-upper-case:before {
+  content: "\42";
+}
+.newmorse-n-lower-case:before {
+  content: "\6e";
+}
+.newmorse-n-upper-case:before {
+  content: "\4e";
+}
+.newmorse-q-lower-case:before {
+  content: "\71";
+}
+.newmorse-q-upper-case:before {
+  content: "\51";
+}
+.newmorse-w-lower-case:before {
+  content: "\77";
+}
+.newmorse-w-upper-case:before {
+  content: "\57";
+}
+.newmorse-e-lower-case:before {
+  content: "\65";
+}
+.newmorse-e-upper-case:before {
+  content: "\45";
+}
+.newmorse-promille-roger:before {
+  content: "\2030";
+}
+.newmorse-r-lower-case:before {
+  content: "\72";
+}
+.newmorse-r-upper-case:before {
+  content: "\52";
+}
+.newmorse-t-lower-case:before {
+  content: "\74";
+}
+.newmorse-t-upper-case:before {
+  content: "\54";
+}
+.newmorse-request-to-send-k-dagger:before {
+  content: "\2020";
+}
+.newmorse-z-lower-case:before {
+  content: "\7a";
+}
+.newmorse-z-upper-case:before {
+  content: "\5a";
+}
+.newmorse-u-lower-case:before {
+  content: "\75";
+}
+.newmorse-u-upper-case:before {
+  content: "\55";
+}
+.newmorse-i-lower-case:before {
+  content: "\69";
+}
+.newmorse-i-upper-case:before {
+  content: "\49";
+}
+.newmorse-o-lower-case:before {
+  content: "\6f";
+}
+.newmorse-o-upper-case:before {
+  content: "\4f";
+}
+.newmorse-p-lower-case:before {
+  content: "\70";
+}
+.newmorse-p-upper-case:before {
+  content: "\50";
+}
+.newmorse-ue-lower-case:before {
+  content: "\fc";
+}
+.newmorse-ue-upper-case:before {
+  content: "\dc";
+}
+.newmorse-division-slash-interrupt:before {
+  content: "\2044";
+}
+.newmorse-s-lower-case:before {
+  content: "\73";
+}
+.newmorse-s-upper-case:before {
+  content: "\53";
+}
+.newmorse-d-lower-case:before {
+  content: "\64";
+}
+.newmorse-d-upper-case:before {
+  content: "\44";
+}
+.newmorse-f-lower-case:before {
+  content: "\66";
+}
+.newmorse-f-upper-case:before {
+  content: "\46";
+}
+.newmorse-g-lower-case:before {
+  content: "\67";
+}
+.newmorse-g-upper-case:before {
+  content: "\47";
+}
+.newmorse-h-lower-case:before {
+  content: "\68";
+}
+.newmorse-h-upper-case:before {
+  content: "\48";
+}
+.newmorse-j-lower-case:before {
+  content: "\6a";
+}
+.newmorse-j-upper-case:before {
+  content: "\4a";
+}
+.newmorse-k-lower-case:before {
+  content: "\6b";
+}
+.newmorse-k-upper-case:before {
+  content: "\4b";
+}
+.newmorse-l-lower-case:before {
+  content: "\6c";
+}
+.newmorse-l-upper-case:before {
+  content: "\4c";
+}
+.newmorse-oe-lower-case:before {
+  content: "\f6";
+}
+.newmorse-oe-upper-case:before {
+  content: "\d6";
+}
+.newmorse-masterspace-at-ac:before {
+  content: "\40";
+}
+.newmorse-vertical-line-from-i-lower-case:before {
+  content: "\131";
+}
+.newmorse-x-lower-case:before {
+  content: "\78";
+}
+.newmorse-x-upper-case:before {
+  content: "\58";
+}
+.newmorse-y-lower-case:before {
+  content: "\79";
+}
+.newmorse-y-upper-case:before {
+  content: "\59";
+}
+.newmorse-c-lower-case:before {
+  content: "\63";
+}
+.newmorse-c-upper-case:before {
+  content: "\43";
+}
+.newmorse-v-lower-case:before {
+  content: "\76";
+}
+.newmorse-v-upper-case:before {
+  content: "\56";
+}
+.newmorse-m-lower-case:before {
+  content: "\6d";
+}
+.newmorse-m-upper-case:before {
+  content: "\4d";
+}
+.newmorse-request-to-send-by-a-station-kn-double-dagger:before {
+  content: "\2021";
+}
+.newmorse-hash-diamond-capital-sign-bk:before {
+  content: "\25ca";
+}
+.newmorse-validation-radical-traffic-sign:before {
+  content: "\221a";
+}
+.newmorse-comma-mim-txt:before {
+  content: "\2c";
+}
+.newmorse-dot-aaa:before {
+  content: "\2e";
+}
+.newmorse-semicolon-nnn:before {
+  content: "\3b";
+}
+.newmorse-double-dot-mb:before {
+  content: "\3a";
+}
+.newmorse-repeat-ii-infinity:before {
+  content: "\221e";
+}
+.newmorse-pause-traffic-sign:before {
+  content: "\2014";
+}
+.newmorse-wait-as-horizontal-ellipse:before {
+  content: "\2026";
+}
+.newmorse-low-line-uk:before {
+  content: "\5f";
+}
+.newmorse-en-dash-from-inverted-minus-tht:before {
+  content: "\2013";
+}
+.newmorse-quote-double-open-alt-q:before {
+  content: "\ab";
+}
+.newmorse-quotation-shift-2:before {
+  content: "\22";
+}
+.newmorse-quote-double-close-alt-shift-q:before {
+  content: "\bb";
+}
