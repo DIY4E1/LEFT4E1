@@ -1,0 +1,286 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "leporellion-visualbraille";
+  src:url("fonts/leporellion-visualbraille.eot");
+  src:url("fonts/leporellion-visualbraille.eot?#iefix") format("embedded-opentype"),
+    url("fonts/leporellion-visualbraille.woff") format("woff"),
+    url("fonts/leporellion-visualbraille.ttf") format("truetype"),
+    url("fonts/leporellion-visualbraille.svg#leporellion-visualbraille") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "leporellion-visualbraille" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="visualbraille-"]:before,
+[class*=" visualbraille-"]:before {
+  font-family: "leporellion-visualbraille" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.visualbraille-accent-circumflex:before {
+  content: "\5e";
+}
+.visualbraille-1-numeric-domino:before {
+  content: "\31";
+}
+.visualbraille-2-numeric-domino:before {
+  content: "\32";
+}
+.visualbraille-3-numeric-domino:before {
+  content: "\33";
+}
+.visualbraille-4-numeric-domino:before {
+  content: "\34";
+}
+.visualbraille-5-numeric-domino:before {
+  content: "\35";
+}
+.visualbraille-6-numeric-domino:before {
+  content: "\36";
+}
+.visualbraille-7-numeric-domino:before {
+  content: "\37";
+}
+.visualbraille-8-numeric-domino:before {
+  content: "\38";
+}
+.visualbraille-9-numeric-domino-basic-sign-9-dot:before {
+  content: "\39";
+}
+.visualbraille-0-numeric-domino-basic-sign-6-dot:before {
+  content: "\30";
+}
+.visualbraille-sz-sharp-s:before {
+  content: "\df";
+}
+.visualbraille-degree:before {
+  content: "\b0";
+}
+.visualbraille-exclamation-point:before {
+  content: "\21";
+}
+.visualbraille-doublequote-low:before {
+  content: "\201e";
+}
+.visualbraille-doublequote-high:before {
+  content: "\201c";
+}
+.visualbraille-paragraph:before {
+  content: "\a7";
+}
+.visualbraille-percent-with-slash:before {
+  content: "\25";
+}
+.visualbraille-plus-ampersand:before {
+  content: "\26";
+}
+.visualbraille-slash-normal:before {
+  content: "\2f";
+}
+.visualbraille-pilcrow-sign:before {
+  content: "\b6";
+}
+.visualbraille-number-sign-hash:before {
+  content: "\ba";
+}
+.visualbraille-square-brackets-opening:before {
+  content: "\5b";
+}
+.visualbraille-square-brackets-ending:before {
+  content: "\5d";
+}
+.visualbraille-verticle-line:before {
+  content: "\7c";
+}
+.visualbraille-slash-reverse:before {
+  content: "\5c";
+}
+.visualbraille-equal-sign:before {
+  content: "\3d";
+}
+.visualbraille-question-mark:before {
+  content: "\3f";
+}
+.visualbraille-apostrophe:before {
+  content: "\2019";
+}
+.visualbraille-q-lower-case:before {
+  content: "\71";
+}
+.visualbraille-w-lower-case:before {
+  content: "\77";
+}
+.visualbraille-e-lower-case:before {
+  content: "\65";
+}
+.visualbraille-r-lower-case:before {
+  content: "\72";
+}
+.visualbraille-t-lower-case:before {
+  content: "\74";
+}
+.visualbraille-z-lower-case:before {
+  content: "\7a";
+}
+.visualbraille-u-lower-case:before {
+  content: "\75";
+}
+.visualbraille-i-lower-case:before {
+  content: "\69";
+}
+.visualbraille-o-lower-case:before {
+  content: "\6f";
+}
+.visualbraille-p-lower-case:before {
+  content: "\70";
+}
+.visualbraille-ue-lower-case:before {
+  content: "\fc";
+}
+.visualbraille-asterisk:before {
+  content: "\2a";
+}
+.visualbraille-dagger-basic-sign-alt-keying:before {
+  content: "\2020";
+}
+.visualbraille-a-lower-case:before {
+  content: "\61";
+}
+.visualbraille-s-lower-case:before {
+  content: "\73";
+}
+.visualbraille-d-lower-case:before {
+  content: "\64";
+}
+.visualbraille-f-lower-case:before {
+  content: "\66";
+}
+.visualbraille-g-lower-case:before {
+  content: "\67";
+}
+.visualbraille-h-lower-case:before {
+  content: "\68";
+}
+.visualbraille-j-lower-case:before {
+  content: "\6a";
+}
+.visualbraille-k-lower-case:before {
+  content: "\6b";
+}
+.visualbraille-l-lower-case:before {
+  content: "\6c";
+}
+.visualbraille-oe-lower-case:before {
+  content: "\f6";
+}
+.visualbraille-ae-lower-case:before {
+  content: "\e4";
+}
+.visualbraille-hash:before {
+  content: "\23";
+}
+.visualbraille-single-quote-ending:before {
+  content: "\2018";
+}
+.visualbraille-single-quote-opening:before {
+  content: "\27";
+}
+.visualbraille-capital-sign:before {
+  content: "\aa";
+}
+.visualbraille-comma:before {
+  content: "\2c";
+}
+.visualbraille-verticle-line-small:before {
+  content: "\131";
+}
+.visualbraille-masterspace:before {
+  content: "\40";
+}
+.visualbraille-smaller-than:before {
+  content: "\3c";
+}
+.visualbraille-bigger-than:before {
+  content: "\3e";
+}
+.visualbraille-double-dagger-basic-sign-alt-shift-keying:before {
+  content: "\2021";
+}
+.visualbraille-y-lower-case:before {
+  content: "\79";
+}
+.visualbraille-x-lower-case:before {
+  content: "\78";
+}
+.visualbraille-c-lower-case:before {
+  content: "\63";
+}
+.visualbraille-v-lower-case:before {
+  content: "\76";
+}
+.visualbraille-b-lower-case:before {
+  content: "\62";
+}
+.visualbraille-n-lower-case:before {
+  content: "\6e";
+}
+.visualbraille-m-lower-case:before {
+  content: "\6d";
+}
+.visualbraille-radical-sign:before {
+  content: "\221a";
+}
+.visualbraille-semicolon:before {
+  content: "\3b";
+}
+.visualbraille-pause-en-dash-infinity-sign:before {
+  content: "\221e";
+}
+.visualbraille-single-dot:before {
+  content: "\2e";
+}
+.visualbraille-double-dot:before {
+  content: "\3a";
+}
+.visualbraille-wait-to-be-continued:before {
+  content: "\2026";
+}
+.visualbraille-minus-net-of-or-less:before {
+  content: "\2d";
+}
+.visualbraille-em-dash:before {
+  content: "\5f";
+}
+.visualbraille-long-dash-pause:before {
+  content: "\2014";
+}
+.visualbraille-accent-circumflex-reverse:before {
+  content: "\2c7";
+}
+.visualbraille-brackets-open-close-6-dot:before {
+  content: "\28";
+}
+.visualbraille-curly-brackets-open-close-9-dot:before {
+  content: "\7b";
+}
