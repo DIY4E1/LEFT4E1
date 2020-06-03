@@ -12,4 +12,4 @@ The Alpha(bet) and Omega  of the Leporellion by using dit-dah-doh stamping kno
 An introduction in the Alpha(bet) and Omega of the Leporellion by visualizing and widening Braille (9-dot). Select former versions at your discretion. The law of arrangement of 6-dot Braille have been expanded.
 <h3>MusicTypewriter</h3>
 <hr>
-An Introduction of the Alpha and Omega of the Leporellion MusicTypewriter (I. Piano/II. Drums/III. Guitar) by using the Law of Octaves and a consonantal Alphabet in combination with VisualBraille (9-dot stamping) and NewMorse (dit/dah/doh). You will soon be able to forget the traditional music notation and display simple lyrics in notes.
+An Introduction of the Alpha and Omega of the Leporellion MusicTypewriter (I. Piano/II. Guitar/III. Drums and Cymbals) by using the Law of Octaves and a consonantal Alphabet in combination with VisualBraille (9-dot stamping) and NewMorse (dit/dah/doh). You will soon be able to forget the traditional music notation and display simple lyrics in notes.
