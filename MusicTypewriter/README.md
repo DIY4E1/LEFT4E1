@@ -6,6 +6,10 @@ This Typefont is an universal solution and Wordart from its own right in common 
 <hr>
 <img src="https://github.com/scifiltr/LEFT4E1/blob/master/MusicTypewriter/GuitarKeying.png">
 <hr>
+<img src="https://github.com/scifiltr/LEFT4E1/blob/master/MusicTypewriter/PercussionsKeyingBasics.png">
+<hr>
+<img src="https://github.com/scifiltr/LEFT4E1/blob/master/MusicTypewriter/PercussionsKeyingExtended.png">
+<hr>
 <p align="justify">Replace the URL 'example.com' in the given code below with your domain address. Note, that you use the same 'fonts' folder and the same suffix (example given: .otf, .ttf or .svg) on your Webserver.</p>
 <em>CSS/Stylesheet</em><br>
 <strong>Leporellion MusicTypewriter 1a for Piano Regular</strong><br>
