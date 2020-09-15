@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<code><style>
 table {
   font-family: arial;
   border-collapse: collapse;
@@ -14,7 +14,7 @@ td, th {
   padding: 8px;
 }
 }
-</style>
+</style></code>
 </head>
 <body>
 
@@ -27,7 +27,7 @@ td, th {
     <th>MusicTypewriter+</th>
     <th>Shortcut</th>
     <th>SMOL Notation</th>
-    <th>Piano.ff *.ogg</th>
+    <th>Piano.ff *.ogg, *.m4v</th>
   </tr>
   <tr>
     <td>01</td>
@@ -35,10 +35,10 @@ td, th {
     <td></td>
     <td>SHIFT a</td>
     <td>A</td>
-    <td><audio controls>
-  <source src="https://github.com/scifiltr/LEFT4E1/blob/master/MusicTypewriter/PianoUnmute/Piano.ff.A0.m4v" type="audio/mpeg">
-Your browser does not support the audio aiff element.
-</audio></td>
+    <td><code><audio controls>
+  <source src="https://github.com/scifiltr/LEFT4E1/blob/master/MusicTypewriter/PianoUnmute/Piano.ff.A0.ogg" type="audio/ogg">
+Your browser does not support the audio ogg element.
+</audio></code></td>
   </tr>
  
 </table>
