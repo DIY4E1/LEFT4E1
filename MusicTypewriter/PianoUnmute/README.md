@@ -1,7 +1,7 @@
 <body>
 
 <h2>MusicTypewriter for PianoUnmute</h2>
-# Code example
+<h3>Code example</h3>
 <code><table>
   <tr>
     <th>SMOL<br/>Piano Keying</th>
@@ -147,7 +147,7 @@
 <tr>	<td>	c5=16/15*h4	</td>	<td>	z - piano key 88 of 88 [five-line-octave]	</td>	<td>	&#x3C;z&#x3E;	</td>	<td>	C8	</td>	<td>	<audio controls preload="none"><source src="https://github.com/scifiltr/LEFT4E1/blob/master/MusicTypewriter/PianoUnmute/Piano.ff.C8.mp3" type="audio/mpeg"><source src=„https://github.com/scifiltr/LEFT4E1/blob/master/MusicTypewriter/PianoUnmute/Piano.ff.C8.ogg“ type="audio/ogg">Your browser does not support the audio element.</audio>	</td>	</tr>
   
 </table>
-# Legal notice
+<h3>Legal notice</h3>
 Copyright Piano.ff (*.aiff): University of Iowa Electronic Music Studios | 205 Becker Communication Studies Building | University of Iowa | Iowa City, IA 52242<br/>
 Download Piano.ff (*.aiff): http://theremin.music.uiowa.edu/MISpiano.html. These freely available recordings have been used by countless musicians and in over 270 research papers. When making a donation, please write "Electronic Music Studios" in the comments field.<br/>
 Instrument: Piano | Model: Steinway & Sons model B<br/>
