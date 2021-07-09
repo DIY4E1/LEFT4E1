@@ -1,6 +1,6 @@
 <body>
 
-<h2>MusicTypewriter for PianoUnmute</h2>
+<h2>MusicTypewriter PianoUnmute</h2>
 <h3>Code example:</h3>
 <code><table>
   <tr>
