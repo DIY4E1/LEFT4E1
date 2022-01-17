@@ -1,0 +1,3 @@
+# It all started with a small search engine ...
+
+<p>From now on we only want to use the SMOL search engine for encodings that cannot be represented with a relevant font or style.</p>
