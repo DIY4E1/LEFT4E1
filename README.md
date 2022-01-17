@@ -1,5 +1,5 @@
 # LEFT4E1 is the unboxed fabric outside the think tank
-With LEFT4E1 a new era of divide and rule begins. Whoever uses LEFT4E1 is encouraged to never share or conquer over it alone!
+With LEFT4E1 (left for everyone) a new era of divide and rule begins. Whoever uses LEFT4E1 is encouraged to never share or conquer over it alone!
 # What is LEFT4E1 with the translation
 The alphabet systems, font family and runicons presented here serves as an incentive to learn and internalize the Leporellion as an encryption method. You can negotiate an intercultural consensus on complex issues and use so-called aggregates, glyphs (e.g. SMOL runicons, SMOL runicodes), prefixes and suffixes instead of a conventional alphabet - to which the sender and receiver had previously agreed.
 Even if not all words can be visualized or shrunk, you can minimize the number of characters. You can encrypt without falsifying the meaning. Initially, you only write or transform your mother tongue into the Leporellion.
