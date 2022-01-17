@@ -5,4 +5,4 @@
 <li>a colored font in format .ttf, .otf for WINDOWS and MAC can downloaded from path: <a href="https://github.com/scifiltr/LEFT4E1/tree/master/T2Hue/">LEFT4E1/T2Hue/LEFT4E1</a></li>
 </details>
 <h3>Lorem ipsum</h3>
-<img src="https://github.com/scifiltr/SMOL/blob/master/fonts/SMOL%20T2Hue%20Lorem%20ipsum.png">
+<img src="https://github.com/scifiltr/LEFT4E1/blob/master/T2Hue/SMOL%20T2Hue%20Lorem%20ipsum.png">
