@@ -1,5 +1,5 @@
 <h1 class="biggest">Latest Updates</h1>
-<img src="https://github.com/scifiltr/LEFT4E1/SMOL/blob/master/fonts/SMOL%20T2Hue%20Lorem%20ipsum.png">
+<img src="https://github.com/scifiltr/LEFT4E1/blob/master/SMOL/fonts/SMOL%20T2Hue%20Lorem%20ipsum.png">
 <h1 class="biggest">How to use SMOL T2Hue in the Internet</h1>
 <p>Make sure the fonts are uploaded in the same html-directory. Then copy the code for css directly between the head-section:</p>
 
